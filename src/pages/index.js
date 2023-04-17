@@ -21,7 +21,7 @@ function HomepageHeader() {
             class="button button--outline button--secondary button--lg custom-button"
             href="./docs/clase-1"
           >
-            Ir a cursos
+            Ir a clases
           </a>
         </div>
       </div>
