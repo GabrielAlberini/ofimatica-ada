@@ -40,6 +40,17 @@ title: 01) Plataformas educativas
 - Introducción a la plataforma institucional: qué es, cómo funciona, qué tipo de información se puede encontrar.
 - Uso de la plataforma para comunicación: cómo acceder a materiales de estudio y cómo realizar tareas y evaluaciones.
 
+---
+
+### Paquete Office y Google Drive
+
+- Introducción a Google Drive: qué es Google Drive, para qué sirve y cómo se utiliza. Control de documentación online, ventajas y beneficios. Compartir archivos de forma privada o pública.
+- Documentos de Google: cómo utilizar Documentos de Google para crear y editar documentos de texto.
+- Hojas de cálculo de Google: cómo utilizar Hojas de cálculo de Google para crear y editar hojas de cálculo.
+- Presentaciones de Google: cómo utilizar Presentaciones de Google para crear y editar presentaciones.
+
+---
+
 ## 💪 Ejercicios
 
 1. Fijar link de conexión a Zoom en canal de Discord.
